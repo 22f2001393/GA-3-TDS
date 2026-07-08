@@ -26,7 +26,7 @@ dQIDAQAB
 Q3_PORT = 8197
 Q3_WORKERS = 6
 Q3_DEBUG = False
-Q3_LOG_LEVEL = "error"
+Q3_LOG_LEVEL = "warning"
 
 # 5. Q5: Analytics (Find the API key in the Q5 instruction tab)
 Q5_API_KEY = "ak_uqnc2hhpmcow8e3dtt5xe4p6"
